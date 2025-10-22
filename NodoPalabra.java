@@ -1,13 +1,19 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Clase NodoPalabra para lista enlazada de palabras
+Actividad: Ejercicios Prácticos – Listas
+* @author Nataly Victoria Gonzalez Aviles. GTID141
+Fecha: 21/10/2025
  */
 package EjerciciosPracticos;
 
-/**
- *
- * @author Victoria
- */
+// Nodo para lista de palabras
 public class NodoPalabra {
-    
+    String palabra;
+    NodoPalabra siguiente;
+
+    public NodoPalabra(String palabra) {
+        this.palabra = palabra;
+        this.siguiente = null;
+    }
 }
+
