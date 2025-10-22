@@ -124,11 +124,6 @@ Construir una lista doblemente enlazada a partir de los caracteres de una cadena
 Cada nodo guarda un carácter y enlaces a su predecesor y sucesor.
 El programa ordena los caracteres alfabéticamente mediante un algoritmo de burbuja.
 
-### ▶️ Ejecución
-
-1. Ejecutar `ListaDoblementeEnlazada`.
-2. Escribir una cadena de texto.
-3. Ver la lista ordenada en consola.
 
 ---
 
@@ -140,14 +135,6 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 * Lectura y escritura de archivos en Java
 * Aplicación del paradigma orientado a objetos (POO)
 
----
-
-## ⚙️ Cómo ejecutar en NetBeans
-
-1. Abrir **NetBeans IDE**.
-2. Crear un nuevo proyecto **Java Application**.
-3. Copiar las clases dentro del paquete `EjerciciosPracticosU2`.
-4. Ejecutar el `main` de la actividad que desees probar.
 
 ---
 
