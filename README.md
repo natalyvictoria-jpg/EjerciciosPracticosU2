@@ -1,4 +1,7 @@
-# 🧩 Ejercicios Prácticos – Listas Enlazadas en Java
+<h1 style="color:red;">🧩 Ejercicios Prácticos – Listas Enlazadas en Java</h1>
+
+
+
 ## GTID0141
 
 📘 **Materia:** Estructura de Datos  
