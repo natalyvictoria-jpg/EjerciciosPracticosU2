@@ -1,13 +1,22 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Clase NodoCircular para lista circular de polinomios
+Actividad: Ejercicios Prácticos – Listas
+* @author Nataly Victoria Gonzalez Aviles. GTID141
+Fecha: 21/10/2025
  */
 package EjerciciosPracticos;
 
-/**
- *
- * @author Victoria
- */
+// Nodo para lista circular de polinomios
 public class NodoCircular {
-    
+    double coeficiente;
+    int exponente;
+    NodoCircular siguiente;
+
+    public NodoCircular(double c, int e) {
+        coeficiente = c;
+        exponente = e;
+        siguiente = null;
+    }
 }
+
+
