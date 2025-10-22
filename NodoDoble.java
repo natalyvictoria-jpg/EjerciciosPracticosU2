@@ -1,13 +1,22 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Clase NodoDoble para lista doblemente enlazada de caracteres
+Actividad: Ejercicios Prácticos – Listas
+* @author Nataly Victoria Gonzalez Aviles. GTID141
+Fecha: 21/10/2025
  */
 package EjerciciosPracticos;
 
-/**
- *
- * @author Victoria
- */
+// Nodo de lista doblemente enlazada
 public class NodoDoble {
-    
+    char caracter;
+    NodoDoble anterior;
+    NodoDoble siguiente;
+
+    public NodoDoble(char c) {
+        caracter = c;
+        anterior = null;
+        siguiente = null;
+    }
 }
+
+
