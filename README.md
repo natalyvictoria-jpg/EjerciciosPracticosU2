@@ -1,7 +1,8 @@
 # 🧩 Ejercicios Prácticos – Listas Enlazadas en Java
+## GTID0141
 
 📘 **Materia:** Estructura de Datos
-👩‍💻 **Nombre:** Nataly Victoria Gonzalez Aviles
+👩‍💻 **Nombre:** Nataly Victoria Gonzalez Aviles 
 🏫 **Proyecto:** Implementación de estructuras enlazadas en Java con NetBeans
 📅 **Unidad:** 2 – Listas Enlazadas
 ⚙️ **Lenguaje:** Java
@@ -152,8 +153,8 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 
 ## ✨ Autor
 
-**Nataly Avilés**
-📍 *Estudiante de Ingeniería en Sistemas Computacionales*
+**Nataly Victoria Gonzalez Aviles**
+📍 *Estudiante de Ingeniería en Desarrollo de Software*
 📧 *Proyecto académico – Unidad 2: Estructuras Enlazadas*
 
 ---
