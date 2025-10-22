@@ -1,6 +1,9 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ Actividad: Ejercicios Prácticos – Listas
+Tema: Lista Enlazada Simple
+* @author Nataly Victoria Gonzalez Aviles. GTID141
+Fecha: 21/10/2025
+Descripción: Creación y manipulación de una lista enlazada simple de enteros.
  */
 package EjerciciosPracticos;
 
@@ -80,3 +83,5 @@ public class ListaEnlazada {
         lista.mostrarLista();
     }
 }
+
+
