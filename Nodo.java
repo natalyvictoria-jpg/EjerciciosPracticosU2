@@ -1,13 +1,20 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+Clase Nodo para lista enlazada simple
+Actividad: Ejercicios Prácticos – Listas
+* @author Nataly Victoria Gonzalez Aviles. GTID141
+Fecha: 21/10/2025
  */
 package EjerciciosPracticos;
 
-/**
- *
- * @author Victoria
- */
+// Nodo para lista enlazada simple
 public class Nodo {
-    
+    int dato;
+    Nodo siguiente;
+
+    public Nodo(int dato) {
+        this.dato = dato;
+        this.siguiente = null;
+    }
 }
+
+
