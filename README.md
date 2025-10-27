@@ -156,9 +156,7 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 📧 *Proyecto académico – Unidad 2: Estructuras Enlazadas*
 
 
-**Nataly Victoria Gonzalez Aviles** 👩‍💻❤️  
-📍 *Estudiante de Ingeniería en Desarrollo de Software*  
-📧 *Proyecto académico – Unidad 2: Estructuras Enlazadas*
+
 
 
 
