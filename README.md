@@ -35,7 +35,7 @@ El programa genera una lista de números aleatorios, los muestra en pantalla y l
 
 ---
 
-## 🟦 Actividad 02 – Lista Enlazada de Palabras desde Archivo
+## 🟦 Ejercicio 02 – Lista Enlazada de Palabras desde Archivo
 
 **Objetivo:**  
 Leer palabras desde un archivo de texto, almacenarlas en una lista enlazada y permitir su manipulación (añadir, eliminar y guardar cambios).
@@ -136,12 +136,12 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 * Aplicación del paradigma orientado a objetos (POO)
 
 ---
-## 🟦 Actividad 2 – Ejercicios Prácticos (Colas en Java)
+# 🟦 Actividad 2 – Ejercicios Prácticos (Colas en Java)
 ### 📄 Ver PDF del Proyecto
 
 | Recurso | Descripción | Enlace |
 |---------|------------|-------|
-| 📘 **Ejercicios Practicos 2 (PDF)** | Documento de las actividades de la clase del 24-10-25, tema de Colas. | [**Ver PDF**](Manual_Listas_Enlazadas.pdf) |
+| 📘 **Ejercicios Practicos 2 - Gonzalez Nataly** | Documento de las actividades de la clase del 24-10-25, tema de Colas. | [**Ver PDF**](Manual_Listas_Enlazadas.pdf) |
 
 ---
 
