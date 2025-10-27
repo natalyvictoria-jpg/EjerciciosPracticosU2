@@ -141,7 +141,7 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 
 | Recurso | Descripción | Enlace |
 |---------|------------|-------|
-| 📘 **Ejercicios Practicos 2 - Gonzalez Nataly.pdf** | Documento de las actividades de la clase del 24-10-25, tema de Colas. | [**Ver PDF**](Manual_Listas_Enlazadas.pdf) |
+| 📘 **Ejercicios Practicos 2 - Gonzalez Nataly.pdf** | Documento de las actividades de la clase del 24-10-25, tema de Colas. | [**Ver PDF**](Ejercicios Practicos 2 - Gonzalez Nataly.pdf) |
 
 ---
 
