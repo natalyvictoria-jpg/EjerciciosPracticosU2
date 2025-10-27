@@ -11,7 +11,7 @@
 
 ---
 
-## 🟩 Actividad 01 – Lista Enlazada Simple
+## 🟩 Ejercicio 01 – Lista Enlazada Simple
 
 **Objetivo:**  
 Implementar una lista enlazada simple que almacene números enteros, los recorra y elimine aquellos mayores a un valor dado.
@@ -59,7 +59,7 @@ El programa abre un archivo de texto con palabras, las carga en una lista enlaza
 
 ---
 
-## 🟨 Actividad 03 – Representación y Evaluación de Polinomios
+## 🟨 Ejercicio 03 – Representación y Evaluación de Polinomios
 
 **Objetivo:**  
 Representar un polinomio mediante una lista enlazada simple y calcular su valor para distintos puntos de evaluación.
@@ -83,7 +83,7 @@ Cada nodo almacena un coeficiente y exponente. El programa evalúa el polinomio 
 
 ---
 
-## 🟧 Actividad 04 – Polinomio con Lista Circular
+## 🟧 Ejercicio 04 – Polinomio con Lista Circular
 
 **Objetivo:**  
 Modificar la lista enlazada de un polinomio para convertirla en **circular**, facilitando recorridos continuos.
@@ -108,7 +108,7 @@ Se capturan términos del polinomio y se muestran en forma circular.
 
 ---
 
-## 🟥 Actividad 05 – Lista Doblemente Enlazada
+## 🟥 Ejercicio 05 – Lista Doblemente Enlazada
 
 **Objetivo:**  
 Construir una lista doblemente enlazada a partir de los caracteres de una cadena ingresada y ordenarla alfabéticamente.
@@ -136,7 +136,7 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 * Aplicación del paradigma orientado a objetos (POO)
 
 ---
-
+## 🟦 Actividad 2 – Ejercicios Prácticos (Colas en Java)
 ### 📄 Ver PDF del Proyecto
 
 | Recurso | Descripción | Enlace |
@@ -145,7 +145,6 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 
 ---
 
-## 🟦 Actividad 2 – Ejercicios Prácticos (Colas en Java)
 
 **Objetivo:**  
 Aplicar las operaciones básicas de una **cola (Queue)** utilizando la clase `LinkedList` de Java, gestionando tareas con inserción, consulta y eliminación.
