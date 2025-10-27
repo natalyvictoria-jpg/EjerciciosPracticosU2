@@ -141,7 +141,7 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 
 | Recurso | Descripción | Enlace |
 |---------|------------|-------|
-| 📘 **Manual del Proyecto (PDF)** | Documento con explicación detallada y resultados de las actividades. | [**Ver PDF**](Manual_Listas_Enlazadas.pdf) |
+| 📘 **Ejercicios Practicos 2 (PDF)** | Documento de las actividades de la clase del 24-10-25, tema de Colas. | [**Ver PDF**](Manual_Listas_Enlazadas.pdf) |
 
 ---
 
