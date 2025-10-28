@@ -1,5 +1,10 @@
 <h1 style="color:red;">🧩 Ejercicios Prácticos – Listas Enlazadas en Java</h1>
 
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Logo Java" width="160">
+</p>
+
 ## GTID0141
 
 📘 **Materia:** Estructura de Datos  
