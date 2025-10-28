@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Logo Java" width="160">
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" alt="Código y desarrollo" width="180">
 </p>
+
 
 ## GTID0141
 
