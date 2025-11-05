@@ -198,7 +198,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo | Propósito |
 |--------------|----------|------------|
-| Clase genérica que implementa la estructura de datos Pila. Permite insertar, eliminar, consultar y verificar si está vacía. | [`Pila.java`](./src/pilas/Pila.java) | Base para todos los ejercicios. |
+| Clase genérica que implementa la estructura de datos Pila. Permite insertar, eliminar, consultar y verificar si está vacía. | [Pila.java](Pila.java) | Base para todos los ejercicios. |
 
 ---
 
@@ -206,7 +206,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Simula operaciones básicas de una pila de enteros (push y pop). | [`PilaBasica.java`](./src/pilas/PilaBasica.java) |
+| Simula operaciones básicas de una pila de enteros (push y pop). | [PilaBasica.java](PilaBasica.java) |
 
 ---
 
@@ -214,7 +214,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Permite al usuario ingresar nombres y mostrarlos en orden inverso. | [`PilaDeNombres.java`](./src/pilas/PilaDeNombres.java) |
+| Permite al usuario ingresar nombres y mostrarlos en orden inverso. | [PilaDeNombres.java](PilaDeNombres.java) |
 
 ---
 
@@ -222,7 +222,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Comprueba si una pila está vacía antes y después de agregar un elemento. | [`VerificarPilaVacia.java`](./src/pilas/VerificarPilaVacia.java) |
+| Comprueba si una pila está vacía antes y después de agregar un elemento. | [VerificarPilaVacia.java](VerificarPilaVacia.java) |
 
 ---
 
@@ -230,7 +230,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Invierte una palabra ingresada por el usuario usando una pila de caracteres. | [`InvertirPalabra.java`](./src/pilas/InvertirPalabra.java) |
+| Invierte una palabra ingresada por el usuario usando una pila de caracteres. | [InvertirPalabra.java](InvertirPalabra.java) |
 
 ---
 
@@ -238,7 +238,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Verifica si los paréntesis de una expresión matemática están correctamente balanceados. | [`BalanceoParentesis.java`](./src/pilas/BalanceoParentesis.java) |
+| Verifica si los paréntesis de una expresión matemática están correctamente balanceados. | [BalanceoParentesis.java](BalanceoParentesis.java) |
 
 ---
 
@@ -246,7 +246,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Convierte un número decimal a binario usando una pila para almacenar los restos. | [`DecimalABinario.java`](./src/pilas/DecimalABinario.java) |
+| Convierte un número decimal a binario usando una pila para almacenar los restos. | [DecimalABinario.java](DecimalABinario.java) |
 
 ---
 
@@ -254,7 +254,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Simula la función “Deshacer” (UNDO) utilizando una pila que almacena las acciones. | [`SimuladorUndo.java`](./src/pilas/SimuladorUndo.java) |
+| Simula la función “Deshacer” (UNDO) utilizando una pila que almacena las acciones. | [SimuladorUndo.java](SimuladorUndo.java) |
 
 ---
 
@@ -262,7 +262,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Evalúa una expresión aritmética en notación postfija (polaca inversa). | [`EvaluarPostfija.java`](./src/pilas/EvaluarPostfija.java) |
+| Evalúa una expresión aritmética en notación postfija (polaca inversa). | [EvaluarPostfija.java](EvaluarPostfija.java) |
 
 ---
 
@@ -270,7 +270,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Usa una pila para invertir los elementos de una lista de números enteros. | [`RevertirLista.java`](./src/pilas/RevertirLista.java) |
+| Usa una pila para invertir los elementos de una lista de números enteros. | [RevertirLista.java](RevertirLista.java) |
 
 ---
 
@@ -278,7 +278,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Verifica si una palabra es palíndroma utilizando una pila de caracteres. | [`VerificarPalindromo.java`](./src/pilas/VerificarPalindromo.java) |
+| Verifica si una palabra es palíndroma utilizando una pila de caracteres. | [VerificarPalindromo.java](VerificarPalindromo.java) |
 
 
 
