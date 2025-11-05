@@ -18,9 +18,13 @@ public class VerificarPilaVacia {
     public static void main(String[] args) {
         Pila<Integer> pila = new Pila<>();
 
-        System.out.println("Esta vacia la pila? " + pila.isEmpty());
-        pila.push(1);
-        System.out.println("Esta vacia la pila? " + pila.isEmpty());
+        // Verifica si la pila está vacía antes de agregar elementos
+        System.out.println("¿Está vacía la pila? " + pila.isEmpty());
+
+        pila.push(1); // Agrega un elemento
+        System.out.println("¿Está vacía la pila? " + pila.isEmpty()); // Verifica nuevamente
     }
 }
+
+
 
