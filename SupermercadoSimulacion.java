@@ -1,3 +1,17 @@
+/*
+---------------------------------------------------------------
+Universidad Tecnologica del Norte de Guanajuato
+Nombre: Nataly Victoria Gonzalez Aviles
+Grupo: GTID0141
+Fecha: 04/11/2025
+Tema: Estructuras de Datos - Colas
+
+Descripcion:
+Simula el funcionamiento de un supermercado con colas de carritos
+y cajas. Los clientes toman un carrito, esperan si no hay disponible,
+se forman en la caja con menos personas y liberan el carrito al pagar.
+---------------------------------------------------------------
+*/
 package Cola;
 
 import java.util.*;
@@ -79,4 +93,5 @@ public class SupermercadoSimulacion {
         System.out.println(nombre + " no esta en el frente de ninguna caja.");
     }
 }
+
 
