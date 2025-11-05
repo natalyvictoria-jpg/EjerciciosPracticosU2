@@ -16,14 +16,15 @@ package pilas;
 
 public class EvaluarPostfija {
 
+    // Método que evalúa una expresión en notación postfija
     public static int evaluar(String expr) {
         Pila<Integer> pila = new Pila<>();
-        String[] tokens = expr.split(" ");
+        String[] tokens = expr.split(" "); // Divide la expresión en operadores y operandos
 
         for (String token : tokens) {
-            if (token.matches("\\d+")) {
+            if (token.matches("\\d+")) {   // Si es número
                 pila.push(Integer.parseInt(token));
-            } else {
+            } else {                       // Si es operador
                 int b = pila.pop();
                 int a = pila.pop();
                 switch (token) {
@@ -34,10 +35,17 @@ public class EvaluarPostfija {
                 }
             }
         }
-        return pila.pop();
+        return pila.pop(); // Resultado final
     }
 
     public static void main(String[] args) {
         System.out.println("Resultado: " + evaluar("5 3 + 8 2 - *"));
     }
 }
+
+
+    public static void main(String[] args) {
+        System.out.println("Resultado: " + evaluar("5 3 + 8 2 - *"));
+    }
+}
+
