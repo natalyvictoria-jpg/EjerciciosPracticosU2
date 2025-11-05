@@ -1,3 +1,18 @@
+/*
+---------------------------------------------------------------
+Universidad Tecnologica de Leon
+Nombre: Nataly Victoria Gonzalez Aviles
+Grupo: Q GTID0141
+Fecha: 04/11/2025
+Tema: Estructuras de Datos - Colas
+
+Descripcion:
+Contiene un metodo generico para comparar dos colas y determinar
+si son identicas, considerando el tamaño y el orden de sus elementos.
+Se usa para practicar el recorrido y comparacion de estructuras FIFO.
+---------------------------------------------------------------
+*/
+
 package Cola;
 
 /**
@@ -29,3 +44,4 @@ public class ComparadorDeColas {
         return true; // Si todos coinciden, las colas son iguales
     }
 }
+
