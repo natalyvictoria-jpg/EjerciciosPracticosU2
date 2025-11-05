@@ -200,7 +200,6 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|------------|
 | Clase genérica que implementa la estructura de datos Pila. Permite insertar, eliminar, consultar y verificar si está vacía.| [Pila.java](Pila.java) | Base para todos los ejercicios. |
 
----
 
 ## 🧩 2. `PilaBasica.java`
 
@@ -208,6 +207,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Simula operaciones básicas de una pila de enteros (push y pop). | [PilasBasica.java](PilasBasica.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 3. `PilaDeNombres.java`
@@ -216,6 +217,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Permite al usuario ingresar nombres y mostrarlos en orden inverso. | [PiladeNombres.java](PiladeNombres.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 4. `VerificarPilaVacia.java`
@@ -224,6 +227,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Comprueba si una pila está vacía antes y después de agregar un elemento. | [VerificarPilaVacia.java](VerificarPilaVacia.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 5. `InvertirPalabra.java`
@@ -232,6 +237,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Invierte una palabra ingresada por el usuario usando una pila de caracteres. | [InvertirPalabra.java](InvertirPalabra.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 6. `BalanceoParentesis.java`
@@ -240,6 +247,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Verifica si los paréntesis de una expresión matemática están correctamente balanceados. | [BalanceoParentesis.java](BalanceoParentesis.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 7. `DecimalABinario.java`
@@ -248,6 +257,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Convierte un número decimal a binario usando una pila para almacenar los restos. | [DecimalABinario.java](DecimalABinario.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 8. `SimuladorUndo.java`
@@ -256,6 +267,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Simula la función “Deshacer” (UNDO) utilizando una pila que almacena las acciones. | [SimuladorUndo.java](SimuladorUndo.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 9. `EvaluarPostfija.java`
@@ -264,6 +277,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Evalúa una expresión aritmética en notación postfija (polaca inversa). | [EvaluarPostfija.java](EvaluarPostfija.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 10. `RevertirLista.java`
@@ -272,6 +287,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Usa una pila para invertir los elementos de una lista de números enteros. | [RevertirLista.java](RevertirLista.java) |
 
+
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 ---
 
 ## 🧩 11. `VerificarPalindromo.java`
@@ -280,6 +297,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 |--------------|----------|
 | Verifica si una palabra es palíndroma utilizando una pila de caracteres. | [VerificarPalindromo.java](VerificarPalindromo.java) |
 
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 
 
 ## ✨ Autor
