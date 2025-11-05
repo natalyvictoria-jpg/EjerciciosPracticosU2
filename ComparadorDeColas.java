@@ -1,6 +1,6 @@
 /*
 ---------------------------------------------------------------
-Universidad Tecnologica de Leon
+Universidad Tecnologica del Norte de Guanajuato
 Nombre: Nataly Victoria Gonzalez Aviles
 Grupo: Q GTID0141
 Fecha: 04/11/2025
@@ -44,4 +44,5 @@ public class ComparadorDeColas {
         return true; // Si todos coinciden, las colas son iguales
     }
 }
+
 
