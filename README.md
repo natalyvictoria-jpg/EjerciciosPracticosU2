@@ -185,6 +185,101 @@ Este repositorio contiene tres ejercicios de simulación y comparación de colas
 - Generar estadísticas de rendimiento y comportamiento.
 
 ---
+# 🧠 Ejercicios Practicos - Pilas (Java)
+
+
+
+
+Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Java**, utilizando una **clase genérica con encapsulamiento**, comentarios y ejemplos ejecutables.
+
+---
+
+## 🧩 1. `Pila.java`
+
+| Descripción | Ver Codigo | Propósito |
+|--------------|----------|------------|
+| Clase genérica que implementa la estructura de datos Pila. Permite insertar, eliminar, consultar y verificar si está vacía. | [`Pila.java`](./src/pilas/Pila.java) | Base para todos los ejercicios. |
+
+---
+
+## 🧩 2. `PilaBasica.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Simula operaciones básicas de una pila de enteros (push y pop). | [`PilaBasica.java`](./src/pilas/PilaBasica.java) |
+
+---
+
+## 🧩 3. `PilaDeNombres.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Permite al usuario ingresar nombres y mostrarlos en orden inverso. | [`PilaDeNombres.java`](./src/pilas/PilaDeNombres.java) |
+
+---
+
+## 🧩 4. `VerificarPilaVacia.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Comprueba si una pila está vacía antes y después de agregar un elemento. | [`VerificarPilaVacia.java`](./src/pilas/VerificarPilaVacia.java) |
+
+---
+
+## 🧩 5. `InvertirPalabra.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Invierte una palabra ingresada por el usuario usando una pila de caracteres. | [`InvertirPalabra.java`](./src/pilas/InvertirPalabra.java) |
+
+---
+
+## 🧩 6. `BalanceoParentesis.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Verifica si los paréntesis de una expresión matemática están correctamente balanceados. | [`BalanceoParentesis.java`](./src/pilas/BalanceoParentesis.java) |
+
+---
+
+## 🧩 7. `DecimalABinario.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Convierte un número decimal a binario usando una pila para almacenar los restos. | [`DecimalABinario.java`](./src/pilas/DecimalABinario.java) |
+
+---
+
+## 🧩 8. `SimuladorUndo.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Simula la función “Deshacer” (UNDO) utilizando una pila que almacena las acciones. | [`SimuladorUndo.java`](./src/pilas/SimuladorUndo.java) |
+
+---
+
+## 🧩 9. `EvaluarPostfija.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Evalúa una expresión aritmética en notación postfija (polaca inversa). | [`EvaluarPostfija.java`](./src/pilas/EvaluarPostfija.java) |
+
+---
+
+## 🧩 10. `RevertirLista.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Usa una pila para invertir los elementos de una lista de números enteros. | [`RevertirLista.java`](./src/pilas/RevertirLista.java) |
+
+---
+
+## 🧩 11. `VerificarPalindromo.java`
+
+| Descripción | Ver Codigo |
+|--------------|----------|
+| Verifica si una palabra es palíndroma utilizando una pila de caracteres. | [`VerificarPalindromo.java`](./src/pilas/VerificarPalindromo.java) |
+
 
 
 ## ✨ Autor
