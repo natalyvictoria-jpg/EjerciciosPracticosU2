@@ -295,7 +295,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Verifica si una palabra es palíndroma utilizando una pila de caracteres. | [VerificarPalindromo.java](VerificarPalindromo.java) |
+| Verifica si una palabra es palíndroma utilizando una pila de caracteres. | [Palindromo.java](Palindromo.java) |
 
 ![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 
