@@ -24,19 +24,23 @@ public class VerificarPalindromo {
         System.out.print("Ingrese una palabra: ");
         String palabra = sc.nextLine();
 
+        // Inserta cada carácter en la pila
         for (char c : palabra.toCharArray()) {
             pila.push(c);
         }
 
+        // Forma la palabra invertida
         String invertida = "";
         while (!pila.isEmpty()) {
             invertida += pila.pop();
         }
 
+        // Compara original e invertida
         if (palabra.equalsIgnoreCase(invertida))
-            System.out.println("Es palindromo");
+            System.out.println("Es palíndromo");
         else
-            System.out.println("No es palindromo");
+            System.out.println("No es palíndromo");
     }
 }
+
 
