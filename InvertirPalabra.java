@@ -24,14 +24,18 @@ public class InvertirPalabra {
         System.out.print("Ingrese una palabra: ");
         String palabra = sc.nextLine();
 
+        // Agrega cada carácter de la palabra a la pila
         for (char c : palabra.toCharArray()) {
             pila.push(c);
         }
 
+        // Extrae los caracteres de la pila para formar la palabra invertida
         System.out.print("Palabra invertida: ");
         while (!pila.isEmpty()) {
             System.out.print(pila.pop());
         }
     }
 }
+
+
 
