@@ -160,15 +160,19 @@ Este repositorio contiene tres ejercicios de simulación y comparación de colas
 
 ## 🗂️ Archivos del código
 
-| Parte del ejercicio | Archivo Java |
-|----------------------|--------------|
-| Estructura genérica de cola | [Cola.java](src/colas/simulacion/Cola.java) |
-| Comparación de colas | [ComparadorDeColas.java](src/colas/simulacion/ComparadorDeColas.java) |
-| Simulación de supermercado (carritos y cajas) | [SupermercadoSimulacion.java](src/colas/simulacion/SupermercadoSimulacion.java) |
-| Simulación de atención al cliente | [SimulacionAtencionClientes.java](src/colas/simulacion/SimulacionAtencionClientes.java) |
-| Clase principal para ejecutar los ejercicios | [Main.java](src/colas/simulacion/Main.java) |
+
+| Parte del ejercicio                      | Código                                                       |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| Clase Cola genérica                      | [Cola.java](src/Cola/Cola.java)                              |
+| Comparador de colas                      | [ComparadorDeColas.java](src/Cola/ComparadorDeColas.java)    |
+| Simulación de supermercado               | [SupermercadoSimulacion.java](src/Cola/SupermercadoSimulacion.java) |
+| Simulación de atención de clientes       | [SimulacionAtencionClientes.java](src/Cola/SimulacionAtencionClientes.java) |
+| Clase principal                          | [Main.java](src/Cola/Main.java)  
+
 
 ---
+![Salida del programa](ImagenSalida)
+
 
 ## 🧠 Objetivos
 
