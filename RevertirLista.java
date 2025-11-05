@@ -16,15 +16,19 @@ package pilas;
 
 public class RevertirLista {
     public static void main(String[] args) {
-        int[] lista = {1, 2, 3, 4};
+        int[] lista = {1, 2, 3, 4}; // Lista original
         Pila<Integer> pila = new Pila<>();
 
+        // Agrega los elementos de la lista a la pila
         for (int n : lista) pila.push(n);
 
+        // Extrae los elementos para imprimirlos en orden inverso
         System.out.print("Lista invertida: ");
         while (!pila.isEmpty()) {
             System.out.print(pila.pop() + " ");
         }
     }
 }
+
+
 
