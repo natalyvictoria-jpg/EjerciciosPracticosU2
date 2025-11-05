@@ -299,6 +299,8 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 ![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/Palindromo.jpg "Ejemplo de salida del programa")
 
+![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/Palindromo2.jpg "Ejemplo de salida del programa")
+
 
 ## ✨ Autor
 
