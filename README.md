@@ -171,7 +171,10 @@ Este repositorio contiene tres ejercicios de simulación y comparación de colas
 
 
 ---
-![Salida del programa](ImagenSalida)
+<!-- Centrado y tamaño fijo -->
+<p align="center">
+  <img src="ImagenSalida" alt="Salida del programa" width="700"/>
+</p>
 
 
 ## 🧠 Objetivos
@@ -183,12 +186,6 @@ Este repositorio contiene tres ejercicios de simulación y comparación de colas
 - Generar estadísticas de rendimiento y comportamiento.
 
 ---
-
-## ⚙️ Cómo ejecutar el proyecto
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/ejercicios-colas.git
 
 
 ## ✨ Autor
