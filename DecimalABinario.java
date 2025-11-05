@@ -21,17 +21,21 @@ public class DecimalABinario {
         Scanner sc = new Scanner(System.in);
         Pila<Integer> pila = new Pila<>();
 
-        System.out.print("Ingrese un numero decimal: ");
+        System.out.print("Ingrese un número decimal: ");
         int num = sc.nextInt();
 
+        // Realiza divisiones sucesivas entre 2, guardando los restos en la pila
         while (num > 0) {
             pila.push(num % 2);
             num /= 2;
         }
 
+        // Imprime los restos en orden inverso para obtener el binario
         System.out.print("Binario: ");
         while (!pila.isEmpty()) {
             System.out.print(pila.pop());
         }
     }
 }
+
+
