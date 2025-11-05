@@ -1,3 +1,18 @@
+/*
+---------------------------------------------------------------
+Universidad Tecnologica del Norte de Guanajuato
+Nombre: Nataly Victoria Gonzalez Aviles
+Grupo:  GTID0141
+Fecha: 04/11/2025
+Tema: Estructuras de Datos - Colas
+
+Descripcion:
+Implementa una clase generica Cola que utiliza un arreglo o lista
+para representar la estructura FIFO (First In - First Out).
+Incluye operaciones basicas como encolar, desencolar y verificar
+si la cola esta vacia o llena.
+---------------------------------------------------------------
+*/
 package Cola;
 
 import java.util.LinkedList;
@@ -71,4 +86,5 @@ public class Cola<T> {
         this.elementos = new LinkedList<>(nuevosElementos);
     }
 }
+
 
