@@ -171,6 +171,8 @@ Este repositorio contiene tres ejercicios de simulación y comparación de colas
 
 
 ---
+### SALIDA
+
 ![Salida del programa](https://raw.githubusercontent.com/natalyvictoria-jpg/EjerciciosPracticosU2/main/ImagenSalida.jpg "Ejemplo de salida del programa")
 
 
