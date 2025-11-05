@@ -1,3 +1,19 @@
+/*
+---------------------------------------------------------------
+Universidad Tecnologica del Norte de Guanajuato
+Nombre: Nataly Victoria Gonzalez Aviles
+Grupo: Q GTID0141
+Fecha: 04/11/2025
+Tema: Estructuras de Datos - Colas
+
+Descripcion:
+Simula la atencion de clientes en un supermercado durante 7 horas.
+Los clientes llegan aleatoriamente, se forman en una fila unica y
+son atendidos por tres cajas, abriendo una cuarta cuando la fila
+supera los 20 clientes. Muestra estadisticas al finalizar.
+---------------------------------------------------------------
+*/
+
 package Cola;
 
 import java.util.*;
@@ -81,3 +97,4 @@ public class SimulacionAtencionClientes {
     public boolean isCuartaCajaAbierta() { return cuartaCajaAbierta; }
     public int getTiempoAperturaCuartaCaja() { return tiempoAperturaCuartaCaja; }
 }
+
