@@ -198,7 +198,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo | Propósito |
 |--------------|----------|------------|
-| Clase genérica que implementa la estructura de datos Pila. Permite insertar, eliminar, consultar y verificar si está vacía. | [Pila.java](Pila.java) | Base para todos los ejercicios. |
+| Clase genérica que implementa la estructura de datos Pila. Permite insertar, eliminar, consultar y verificar si está vacía.| [Pila.java](Pila.java) | Base para todos los ejercicios. |
 
 ---
 
@@ -206,7 +206,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Simula operaciones básicas de una pila de enteros (push y pop). | [PilaBasica.java](PilaBasica.java) |
+| Simula operaciones básicas de una pila de enteros (push y pop). | [PilasBasica.java](PilasBasica.java) |
 
 ---
 
@@ -214,7 +214,7 @@ Este proyecto contiene **10 ejercicios prácticos sobre Pilas (Stacks)** en **Ja
 
 | Descripción | Ver Codigo |
 |--------------|----------|
-| Permite al usuario ingresar nombres y mostrarlos en orden inverso. | [PilaDeNombres.java](PilaDeNombres.java) |
+| Permite al usuario ingresar nombres y mostrarlos en orden inverso. | [PiladeNombres.java](PiladeNombres.java) |
 
 ---
 
