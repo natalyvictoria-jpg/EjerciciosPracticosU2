@@ -142,6 +142,50 @@ El programa ordena los caracteres alfabéticamente mediante un algoritmo de burb
 * Aplicación del paradigma orientado a objetos (POO)
 
 ---
+# 🧮 Ejercicios Prácticos de Colas (Java)
+
+Este repositorio contiene tres ejercicios de simulación y comparación de colas implementados en **Java**, aplicando **estructuras genéricas, encapsulamiento y buenas prácticas POO**.
+
+---
+
+## 📘 Descripción de los ejercicios
+
+| Ejercicio | Descripción |
+|------------|-------------|
+| **Ejercicio 1** | Comparación de dos colas genéricas (mismo tamaño y elementos en el mismo orden). |
+| **Ejercicio 2** | Simulación del funcionamiento de un supermercado con carritos y cajas de pago. |
+| **Ejercicio 3** | Simulación de atención al cliente durante 7 horas con apertura dinámica de una cuarta caja. |
+
+---
+
+## 🗂️ Archivos del código
+
+| Parte del ejercicio | Archivo Java |
+|----------------------|--------------|
+| Estructura genérica de cola | [Cola.java](src/colas/simulacion/Cola.java) |
+| Comparación de colas | [ComparadorDeColas.java](src/colas/simulacion/ComparadorDeColas.java) |
+| Simulación de supermercado (carritos y cajas) | [SupermercadoSimulacion.java](src/colas/simulacion/SupermercadoSimulacion.java) |
+| Simulación de atención al cliente | [SimulacionAtencionClientes.java](src/colas/simulacion/SimulacionAtencionClientes.java) |
+| Clase principal para ejecutar los ejercicios | [Main.java](src/colas/simulacion/Main.java) |
+
+---
+
+## 🧠 Objetivos
+
+- Aplicar estructuras de datos tipo **cola (FIFO)**.  
+- Implementar recorrido y comparación de elementos.  
+- Simular el flujo de clientes en sistemas reales.  
+- Aplicar **encapsulamiento y reutilización de clases genéricas**.  
+- Generar estadísticas de rendimiento y comportamiento.
+
+---
+
+## ⚙️ Cómo ejecutar el proyecto
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/ejercicios-colas.git
+
 
 ## ✨ Autor
 
