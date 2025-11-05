@@ -1,3 +1,17 @@
+/*
+---------------------------------------------------------------
+Universidad Tecnologica del Norte de Guanajuato
+Nombre: Nataly Victoria Gonzalez Aviles
+Grupo:  GTID0141
+Fecha: 04/11/2025
+Tema: Estructuras de Datos - Colas
+
+Descripcion:
+Clase principal que ejecuta las simulaciones de los ejercicios:
+comparacion de colas, simulacion de supermercado y atencion de
+clientes. Sirve como punto de entrada del programa.
+---------------------------------------------------------------
+*/
 package Cola;
 
 /**
@@ -30,4 +44,5 @@ public class Main {
         simulacion.simular();
     }
 }
+
 
